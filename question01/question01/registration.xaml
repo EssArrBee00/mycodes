@@ -1,0 +1,33 @@
+﻿<Window x:Class="question01.registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:question01"
+        mc:Ignorable="d"
+        Title="registration" Height="450" Width="400">
+    <Grid Background="#FF357193">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="First Name"></Label>
+            <TextBox  x:Name="fistN"></TextBox>
+            <Label Content="Last Name"></Label>
+            <TextBox x:Name="lastN"></TextBox>
+            <Label Content="Email"></Label>
+            <TextBox x:Name="mail"></TextBox>
+            <Label Content="Password"></Label>
+            <TextBox x:Name="pass"></TextBox>
+            <Label Content="Confirm Password"></Label>
+            <TextBox x:Name="Cpass"></TextBox>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Submit"  Height="30" Margin="10,10,50,0" Click="AddData"></Button>
+                <Button Name="cacel" Content="Cancel" Height="30" Click="CancelButton_Click" Margin="10,10,50,0"></Button>
+            </StackPanel>
+
+
+
+
+
+        </StackPanel>
+    </Grid>
+</Window>

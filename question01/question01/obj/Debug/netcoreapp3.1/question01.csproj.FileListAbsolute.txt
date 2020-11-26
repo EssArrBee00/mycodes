@@ -1,0 +1,23 @@
+C:\Users\rimis\source\repos\question01\question01\bin\Debug\netcoreapp3.1\question01.exe
+C:\Users\rimis\source\repos\question01\question01\bin\Debug\netcoreapp3.1\question01.deps.json
+C:\Users\rimis\source\repos\question01\question01\bin\Debug\netcoreapp3.1\question01.runtimeconfig.json
+C:\Users\rimis\source\repos\question01\question01\bin\Debug\netcoreapp3.1\question01.runtimeconfig.dev.json
+C:\Users\rimis\source\repos\question01\question01\bin\Debug\netcoreapp3.1\question01.dll
+C:\Users\rimis\source\repos\question01\question01\bin\Debug\netcoreapp3.1\question01.pdb
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.csprojAssemblyReference.cache
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01_MarkupCompile.cache
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01_MarkupCompile.lref
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.g.resources
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.AssemblyInfoInputs.cache
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.AssemblyInfo.cs
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.csproj.CoreCompileInputs.cache
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.dll
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.pdb
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\question01.genruntimeconfig.cache
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\registration.g.cs
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\registration.baml
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\dummy data.g.cs
+C:\Users\rimis\source\repos\question01\question01\obj\Debug\netcoreapp3.1\dummy data.baml
