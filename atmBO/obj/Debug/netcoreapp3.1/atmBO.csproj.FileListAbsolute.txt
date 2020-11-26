@@ -1,0 +1,9 @@
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\bin\Debug\netcoreapp3.1\atmBO.deps.json
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\bin\Debug\netcoreapp3.1\atmBO.dll
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\bin\Debug\netcoreapp3.1\atmBO.pdb
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\obj\Debug\netcoreapp3.1\atmBO.csprojAssemblyReference.cache
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\obj\Debug\netcoreapp3.1\atmBO.AssemblyInfoInputs.cache
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\obj\Debug\netcoreapp3.1\atmBO.AssemblyInfo.cs
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\obj\Debug\netcoreapp3.1\atmBO.csproj.CoreCompileInputs.cache
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\obj\Debug\netcoreapp3.1\atmBO.dll
+C:\Users\rimis\Documents\repos\projectEAD\atmBO\obj\Debug\netcoreapp3.1\atmBO.pdb

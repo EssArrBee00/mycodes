@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "atmView/1.0.0": {
+        "dependencies": {
+          "atmBLL": "1.0.0",
+          "atmBO": "1.0.0"
+        },
+        "runtime": {
+          "atmView.dll": {}
+        }
+      },
+      "atmBLL/1.0.0": {
+        "dependencies": {
+          "atmBO": "1.0.0",
+          "atmDAL": "1.0.0"
+        },
+        "runtime": {
+          "atmBLL.dll": {}
+        }
+      },
+      "atmBO/1.0.0": {
+        "runtime": {
+          "atmBO.dll": {}
+        }
+      },
+      "atmDAL/1.0.0": {
+        "dependencies": {
+          "atmBO": "1.0.0"
+        },
+        "runtime": {
+          "atmDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atmView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "atmBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "atmBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "atmDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

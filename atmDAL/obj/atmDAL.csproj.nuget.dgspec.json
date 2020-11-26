@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmDAL\\atmDAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmBO\\atmBO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmBO\\atmBO.csproj",
+        "projectName": "atmBO",
+        "projectPath": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmBO\\atmBO.csproj",
+        "packagesPath": "C:\\Users\\rimis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmBO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rimis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmDAL\\atmDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmDAL\\atmDAL.csproj",
+        "projectName": "atmDAL",
+        "projectPath": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmDAL\\atmDAL.csproj",
+        "packagesPath": "C:\\Users\\rimis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rimis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmBO\\atmBO.csproj": {
+                "projectPath": "C:\\Users\\rimis\\Documents\\repos\\projectEAD\\atmBO\\atmBO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
