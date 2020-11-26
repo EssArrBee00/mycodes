@@ -1,0 +1,13 @@
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\bin\Debug\netcoreapp3.1\builinDelegates.exe
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\bin\Debug\netcoreapp3.1\builinDelegates.deps.json
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\bin\Debug\netcoreapp3.1\builinDelegates.runtimeconfig.json
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\bin\Debug\netcoreapp3.1\builinDelegates.runtimeconfig.dev.json
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\bin\Debug\netcoreapp3.1\builinDelegates.dll
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\bin\Debug\netcoreapp3.1\builinDelegates.pdb
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.csprojAssemblyReference.cache
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.AssemblyInfoInputs.cache
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.AssemblyInfo.cs
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.csproj.CoreCompileInputs.cache
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.dll
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.pdb
+C:\Users\rimis\source\repos\builinDelegates\builinDelegates\obj\Debug\netcoreapp3.1\builinDelegates.genruntimeconfig.cache
